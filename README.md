@@ -26,3 +26,5 @@ An interactive **Power BI dashboard** was created to visualize survey data and p
 ## Tools & Technologies
 - **Power BI**: Dashboard design and visualization.
 - **SQL**: Used for writing primary question
+
+## Dashboard Screen Shorts
