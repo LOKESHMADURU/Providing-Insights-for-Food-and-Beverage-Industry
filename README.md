@@ -28,3 +28,8 @@ An interactive **Power BI dashboard** was created to visualize survey data and p
 - **SQL**: Used for writing primary question
 
 ## Dashboard Screen Shorts
+![Screenshot (188)](https://github.com/user-attachments/assets/32b32d64-6fe9-4920-84a8-d5ab8a0b9cd8)
+
+![Screenshot (189)](https://github.com/user-attachments/assets/ac6fdfef-3b3f-44bf-9c6f-17b56e3e1b44)
+
+![Screenshot (190)](https://github.com/user-attachments/assets/5aa73113-e64c-4d3b-af60-98c3b75f3247)
